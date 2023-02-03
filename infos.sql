@@ -38,11 +38,7 @@ CREATE TABLE `infos` (
 --
 
 INSERT INTO `infos` (`nameFirstname`, `mail`, `message`) VALUES
-('test test ', 'cabralmaxime@hotmail.fr', 'test'),
-('test test ', 'cabralmaxime@hotmail.fr', 'test'),
-('test test ', 'cabralmaxime@hotmail.fr', 'test'),
-('test test ', 'cabralmaxime@hotmail.fr', 'test'),
-('test test ', 'cabralmaxime@hotmail.fr', 'test');
+('Maxime Cabral ', 'cabralmaxime@hotmail.fr', 'test'),
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
